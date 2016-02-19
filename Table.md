@@ -3,4 +3,4 @@
 
 |Team member|Interviews|Personas|Use case|Implementation|Testing|Documentation/Glossary|
 |---------|--------|--------|--------|--------|--------|--------|
-|Boulos|-Provide feedback on pilot interview.    -Re-interview Joey with new questions. -Transcribe Joey’s interview.|---|---|---|---|---|
+|Boulos|-[x]Provide feedback on pilot interview. -[x]Re-interview Joey with new questions. -[x]Transcribe Joey’s interview.|---|---|---|---|---|
