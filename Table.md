@@ -1,8 +1,7 @@
-###Task allocation
+###Individual/Group responsibilities for Iteration 1 (Team E)
 
-We can update this document as our tasks change, github will keep a version history.
 
-|team member|Task|Comments|
+|Team member:|Interviews|Personas|Use case|Implementation|Testing|Documentation/Glossary|
 |---------|--------|--------|
 |Boulos|---|---|
 |Devang|---|---|
