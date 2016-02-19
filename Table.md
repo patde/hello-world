@@ -3,4 +3,4 @@
 
 |Team member|Interviews|Personas|Use case|Implementation|Testing|Documentation/Glossary|
 |---------|--------|--------|--------|--------|--------|--------|
-|Boulos|---|---|---|---|---|---|
+|Boulos|-Provide feedback on pilot interview.|---|---|---|---|---|
