@@ -2,9 +2,9 @@
 
 
 |Team member:|Interviews|Personas|Use case|Implementation|Testing|Documentation/Glossary|
-|---------|--------|--------|
-|Boulos|---|---|
-|Devang|---|---|
-|Federico|create a gitHub structure|---|
-|Laurent|compile interview questions|---|
-|Yuanwen|---|---|
+|---------|--------|--------|---------|--------|--------||--------|
+|Boulos|---|---|---|---|---|---|
+|Devang|---|---|---|---|---|---|
+|Federico|create a gitHub structure|---|---|---|---|---|
+|Laurent|compile interview questions|---|---|---|---|---|
+|Yuanwen|---|---|---|---|---|---|
